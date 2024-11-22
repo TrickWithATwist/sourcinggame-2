@@ -1,0 +1,42 @@
+Index,Request number,Business  of request,Request entered by,Request Title,New or Renewal,Run the bank or change the bank,Cost Center,Department / Business Unit,Project name,Category,Daily rate,Hours,TCO,FA Existing,Textfield,Reject,clarify with supplier,clarify request,on hold,Conduct RFP,Send out PO,botton7,General case description
+1,Req - 2232,Peter Retep,Peter Retep,Software Licences for Adobe,Renewal,Run the bank,CO 6767,COCO,N/A,Software Licences,0,0,0,Yes,,19,-20,-347,-458,-569,-680,-791,Andreas initial
+2,Req - 2241,a,Bert Biggo,Flowers for client event,New,Run the bank,CO 6684,CXMA,N/A,??,0,0,1’500,No,,19,-20,-347,-458,-569,-680,-791,Direct procure no effort due to very low budget
+3,Req - 2244,Clair Unclear,D,External resources for IT project,New,Change the bank,CO 1123,ITPS,Platnew Form,Consulting & Professional services,1’500,320,60’000,No,,-19,20,100,0,0,0,0,Resources with very high probability of prolongation
+4,Req - 2247,Reto Stävau,Wili Wotsienümme,Outsourcing the entire RRSTV services,New,Change the bank,CO 5548,RRSTV,RRSTV OUT,Consulting & Professional services,0,0,,No,,0,20,-347,-458,-569,-680,-791,Huge project with RFP need
+5,Req - 2250,Valère Velo,Leroy Lenkrad,Bicycle courier services between two locations,New,Run the bank,CO 6679,POST,N/A,Consulting & Professional services,0,0,,No,,19,0,0,0,100,0,0,Project with relevance on bank security therefore RfP
+6,Req - 2253,Clair Unclear,Klara Klartext,IT TSF roll-out,New,Change the bank,CO 6680,WTFx,Keep on rollin' in the IT world,??,0,0,,Yes,,19,20,100,0,0,0,0,Confusing request nobody understands
+7,Req - 2256,Fred Fäd,Leo Legala ,Servers for Regulatory project - urgent,New,Change the bank,CO 6681,COPL,TOLAS,IT - Servers,0,0,,No,,19,20,0,0,0,0,0,Urgent project with no time for RFP
+8,Req - 2259,Mister Mystery ,Mike Misty ,New office location required,New,Change the bank,CO 6682,CONS,SYFM it's secret,Office spaces,0,0,,No,,19,20,0,0,100,0,0,Meeting with higher management
+9,Req - 2262,Piero Paper,Archie Vator ,Archiving system,New,Run the bank,CO 6683,PAPO,N/A,??,0,0,,No,,19,20,100,0,0,0,0,Unclear requirements (not clear if physical archiving or digital. We cannot send out an RFP with this information) 
+10,Req - 2265,Alex Red,Livia Longlegs,Hostess for recruiting fair,New,Run the bank,CO 6684,SXYL,N/A,Consulting & Professional services,1’000,0,3’000,No,,19,20,0,0,0,0,0,Request against policy 
+11,Req - 2268,Marco Maserati,Roland Royce,Company car replacement - discount ,Renewal,Run the bank,CO 6685,WMPK,N/A,Equipment,0,0,225’000,No,,19,20,0,0,10,0,0,Request against policy (contra business) 
+12,Req - 2271,Nifty Notso,Bert Biggo,IT system implementation,Renewal,Change the bank,CO 6686,ITPS,TTT Project,Consulting & Professional services,1’500,320,300’000,Yes,,19,20,0,0,0,100,0,Contract extension for running long term project
+13,Req - 2274,Mark Mymoney,Carrie Cash,App design for kids of high wealth clients,New,Change the bank,CO 6687,MKTI,UHNWKids,Software,0,0,100’000,No,,19,20,50,0,0,0,0,Typical RFP case
+14,Req - 2277,Dino Drucki,Prospère Printerkopf,Rethorb printer for asset high wealth client management,Renewal,Run the bank,CO 6688,PRRT,N/A,IT - End user hardware,0,0,,No,,19,20,0,0,0,50,0,Reject request for moving from preferred Provider
+15,Req - 2280,Frankie Football,Eddy Ethics,T-shirts for marketing event,New,Run the bank,CO 6689,FIFA,N/A,?? ,0,0,400,No,,19,20,100,0,0,0,0,"Low budget request against policy (banned countries pakistan, not explicitely mentioned but name of company gives indication"
+16,Req - 2283,Frankie Football,Eddy Ethics,T-shirts for marketing event,New,Run the bank,CO 6689,FIFA,N/A,?? ,0,0,,No,,19,20,0,400,-200,600,700,
+17,Req - 2286,Test ,ames Anderson,Test ,Test ,Test ,Test ,Test ,Test ,0,0,0,,No,,19,20,200,200,200,200,200,
+18,Req - 2287,Fred Fäd,Emma Johnson,Streamlined Customer Service Complaint Solution,,,,,,,,,,,,,,,,,,,
+19,Req-3659,Mister Mystery ,Liam Brown,Evaluation of Marketing Campaign Partner,,,,,,,,,,,,,,,,,,,
+20,Req-6866,Piero Paper,Olivia Taylor,Structured Employee Performance Review System,,,,,,,,,,,,,,,,,,,
+21,Req-8871,Alex Red,Ethan Wilson,Traininer for Implementation for New Software,,,,,,,,,,,,,,,,,,,
+22,Req-4869,Marco Maserati,Sophia Harris,Corporate Conference Event Planning Services,,,,,,,,,,,,,,,,,,,
+23,Req-5898,Nifty Notso,Benjamin Martin,Market Research Support for New Product Development,,,,,,,,,,,,,,,,,,,
+24,Req-8027,Mark Mymoney,Charlotte Davis,Assessment of Social Media Engagement Levels,,,,,,,,,,,,,,,,,,,
+25,Req-2445,Dino Drucki,Mason Moore,Comprehensive Website Usability Testing,,,,,,,,,,,,,,,,,,,
+26,Req-8468,Frankie Football,Amelia Thompson,Consultant for developing a Crisis Management Plan,,,,,,,,,,,,,,,,,,,
+27,Req-4596,Frankie Football,Lucas Clark,Office Space Utilization Study Services,,,,,,,,,,,,,,,,,,,
+28,Req-8403,Clair Unclear,Mia Walker,Brand Repositioning Strategy Development,,,,,,,,,,,,,,,,,,,
+29,Req-2874,Frankie Football,Alexander Lewis,Customer Feedback Loop System,,,,,,,,,,,,,,,,,,,
+30,Req-2870,Frankie Football,Grace Hall,Digital Marketing Strategy Assessment,,,,,,,,,,,,,,,,,,,
+31,Req-5866,Test ,Henry Allen,Facility Maintenance Service Provider,,,,,,,,,,,,,,,,,,,
+32,Req-1387,Clair Unclear,Isabella Young,Market Analysis Tools for Competitive Intelligence,,,,,,,,,,,,,,,,,,,
+33,Req-2035,Reto Stävau,Noah King,Employee Onboarding Process Enhancement,,,,,,,,,,,,,,,,,,,
+34,Req-2242,Clair Unclear,Ava Scott,Software Solutions for Project Management,,,,,,,,,,,,,,,,,,,
+35,Req-2195,Reto Stävau,Elijah Green,Data Analytics Services to Drive Business Insights,,,,,,,,,,,,,,,,,,,
+36,Req-1948,Valère Velo,Abigail Baker,Outsourcing Options for Customer Support Services,,,,,,,,,,,,,,,,,,,
+37,Req-9450,Clair Unclear,Sebastian Carter,Y,,,,,,,,,,,,,,,,,,,
+38,Req-9834,Valère Velo,Emily Perez,Y,,,,,,,,,,,,,,,,,,,
+39,Req-9559,Clair Unclear,Oliver Roberts,Y,,,,,,,,,,,,,,,,,,,
+40,Req-9552,Fred Fäd,Ella Turner,Y,,,,,,,,,,,,,,,,,,,
+41,Req-3199,Mister Mystery ,Jacob Campbell,Y,,,,,,,,,,,,,,,,,,,
