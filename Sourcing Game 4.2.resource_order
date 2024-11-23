@@ -4,6 +4,7 @@
     {"name":"Erweiterungen","order":3,"path":"folders/Erweiterungen.yy",},
     {"name":"Objekte","order":5,"path":"folders/Objekte.yy",},
     {"name":"Case_Details_objects","order":1,"path":"folders/Objekte/Case_Details_objects.yy",},
+    {"name":"gamemode_room_objects","order":5,"path":"folders/Objekte/gamemode_room_objects.yy",},
     {"name":"Notizen","order":3,"path":"folders/Objekte/Notizen.yy",},
     {"name":"start_room_objects","order":2,"path":"folders/Objekte/start_room_objects.yy",},
     {"name":"Particle Systems","order":6,"path":"folders/Particle Systems.yy",},
@@ -43,6 +44,7 @@
     {"name":"obj_start_button","order":1,"path":"objects/obj_start_button/obj_start_button.yy",},
     {"name":"obj_stop_button","order":2,"path":"objects/obj_stop_button/obj_stop_button.yy",},
     {"name":"Object18","order":4,"path":"objects/Object18/Object18.yy",},
+    {"name":"Gamemode_Room","order":1,"path":"rooms/Gamemode_Room/Gamemode_Room.yy",},
     {"name":"Spr_Boss_Sprechblase_leer","order":10,"path":"sprites/Spr_Boss_Sprechblase_leer/Spr_Boss_Sprechblase_leer.yy",},
     {"name":"Spr_button_blue","order":2,"path":"sprites/Spr_button_blue/Spr_button_blue.yy",},
     {"name":"Spr_button_start","order":9,"path":"sprites/Spr_button_start/Spr_button_start.yy",},
@@ -52,6 +54,7 @@
     {"name":"Spr_Landscape","order":3,"path":"sprites/Spr_Landscape/Spr_Landscape.yy",},
     {"name":"Spr_Start_Boss_Sprechblase_1","order":7,"path":"sprites/Spr_Start_Boss_Sprechblase_1/Spr_Start_Boss_Sprechblase_1.yy",},
     {"name":"Spr_Start_Boss_Sprechblase_2","order":8,"path":"sprites/Spr_Start_Boss_Sprechblase_2/Spr_Start_Boss_Sprechblase_2.yy",},
+    {"name":"Spr_Start_Choose_Gamemode","order":12,"path":"sprites/Spr_Start_Choose_Gamemode/Spr_Start_Choose_Gamemode.yy",},
     {"name":"Spr_Start_Meeting_boss","order":6,"path":"sprites/Spr_Start_Meeting_boss/Spr_Start_Meeting_boss.yy",},
   ],
 }
