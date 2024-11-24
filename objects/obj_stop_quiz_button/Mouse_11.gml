@@ -1,0 +1,1 @@
+image_blend = (c_gray); //image is dark when mouse is not hovering over it

@@ -70,3 +70,16 @@ function add_newlines(text, max_width)
         }
         return result + line;
     }
+	
+	
+//random 
+random_indices = [];
+//variable for length of case data array 
+datalen = array_length(global.case_data);
+//getting random indicies 
+for (var i = 0; i < 3; i++) 
+{
+    random_indices[i] = irandom_range(0, datalen - 1);
+}
+	
+	

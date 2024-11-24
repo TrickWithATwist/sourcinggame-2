@@ -1,0 +1,1 @@
+image_blend = c_white; //button is regular color when mouse hovers over it
