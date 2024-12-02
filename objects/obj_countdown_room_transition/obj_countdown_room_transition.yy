@@ -1,19 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_budgetzahl",
+  "%Name":"obj_countdown_room_transition",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_budgetzahl",
+  "name":"obj_countdown_room_transition",
   "overriddenProperties":[],
   "parent":{
-    "name":"high_score_end_room_objects",
-    "path":"folders/Objekte/high_score_end_room_objects.yy",
+    "name":"Objekte",
+    "path":"folders/Objekte.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_Frame_Score",
-    "path":"sprites/Spr_Frame_Score/Spr_Frame_Score.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

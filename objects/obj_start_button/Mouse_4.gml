@@ -3,4 +3,4 @@
 
 /*if mouse clicked go to gamemode screen to choose to play game
 regularly or to play the quiz mode instead */
-room_goto(Gamemode_Room);
+room_goto(Countdown_Room);
